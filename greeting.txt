@@ -1,1 +1,2 @@
-echo "Greeting message line 1" >> greeting.txt
+echo "Greeting message line 1"
+echo "Greeting message line 2"
