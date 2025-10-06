@@ -211,7 +211,7 @@ git diff --color HEAD~1 HEAD greeting.txt
 git diff --color --unified=5 HEAD~1 HEAD greeting.txt
 ```
 
-##### 3.18 เพิ่มไฟล์ README.md
+##### 3.18 เพิ่มไฟล์ readme.txt
 ```bash
 echo "# Basic Git" >> readme.txt
 git add readme.txt
